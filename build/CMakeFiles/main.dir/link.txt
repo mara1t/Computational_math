@@ -1,0 +1,1 @@
+mpicxx     CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/convection_diffusion_problem.cpp.o CMakeFiles/main.dir/src/solver.cpp.o CMakeFiles/main.dir/src/schemes.cpp.o  -o main  /usr/lib/x86_64-linux-gnu/libmpichcxx.so /usr/lib/x86_64-linux-gnu/libmpich.so 

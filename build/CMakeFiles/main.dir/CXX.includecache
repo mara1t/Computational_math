@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/ziiat/OneDrive/Рабочий стол/c++/Parallel_programming/Lab_1/include/convection_diffusion_problem.h
+functional
+-
+string
+-
+
+/mnt/c/Users/ziiat/OneDrive/Рабочий стол/c++/Parallel_programming/Lab_1/include/schemes.h
+solver.h
+/mnt/c/Users/ziiat/OneDrive/Рабочий стол/c++/Parallel_programming/Lab_1/include/solver.h
+
+/mnt/c/Users/ziiat/OneDrive/Рабочий стол/c++/Parallel_programming/Lab_1/include/solver.h
+vector
+-
+string
+-
+convection_diffusion_problem.h
+/mnt/c/Users/ziiat/OneDrive/Рабочий стол/c++/Parallel_programming/Lab_1/include/convection_diffusion_problem.h
+
+/mnt/c/Users/ziiat/OneDrive/Рабочий стол/c++/Parallel_programming/Lab_1/src/main.cpp
+iostream
+-
+fstream
+-
+math.h
+-
+mpi.h
+-
+../include/convection_diffusion_problem.h
+/mnt/c/Users/ziiat/OneDrive/Рабочий стол/c++/Parallel_programming/Lab_1/include/convection_diffusion_problem.h
+../include/solver.h
+/mnt/c/Users/ziiat/OneDrive/Рабочий стол/c++/Parallel_programming/Lab_1/include/solver.h
+../include/schemes.h
+/mnt/c/Users/ziiat/OneDrive/Рабочий стол/c++/Parallel_programming/Lab_1/include/schemes.h
+
+/usr/include/x86_64-linux-gnu/mpich/mpi.h
+stddef.h
+-
+cstdint
+-
+stdint.h
+-
+mpio.h
+/usr/include/x86_64-linux-gnu/mpich/mpio.h
+mpicxx.h
+/usr/include/x86_64-linux-gnu/mpich/mpicxx.h
+
+/usr/include/x86_64-linux-gnu/mpich/mpicxx.h
+stdio.h
+-
+
+/usr/include/x86_64-linux-gnu/mpich/mpio.h
+mpi.h
+/usr/include/x86_64-linux-gnu/mpich/mpi.h
+
